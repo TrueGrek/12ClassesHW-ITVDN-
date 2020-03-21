@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex3", "WindowsFormsApp3\ex3.csproj", "{1A2BA02D-B815-4F58-A7E8-1E4B3CC2BFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVPCalculate", "WpfApp1\MVPCalculate.csproj", "{FEAED36B-BCD2-4990-B342-3037F703639C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2BA02D-B815-4F58-A7E8-1E4B3CC2BFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2BA02D-B815-4F58-A7E8-1E4B3CC2BFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2BA02D-B815-4F58-A7E8-1E4B3CC2BFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2BA02D-B815-4F58-A7E8-1E4B3CC2BFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAED36B-BCD2-4990-B342-3037F703639C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAED36B-BCD2-4990-B342-3037F703639C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAED36B-BCD2-4990-B342-3037F703639C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAED36B-BCD2-4990-B342-3037F703639C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C77E2F26-BBF0-465B-B7AD-545EC59DFD07}
+	EndGlobalSection
+EndGlobal
